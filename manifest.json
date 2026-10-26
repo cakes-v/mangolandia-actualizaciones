@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -299,8 +299,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "dab1b65116d146838dc9b9dafec6803083ffffea85979b2a0ee7fe417d47f5a5",
-                         "tamano":  48241
+                         "sha256":  "9d7a17b82f51230101389d5d61b6dae20a9a0bbccd202621a17d4dd8fff41ee2",
+                         "tamano":  48253
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
