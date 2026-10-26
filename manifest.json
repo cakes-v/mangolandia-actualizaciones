@@ -1,12 +1,504 @@
 {
-    "version":  "1.0.3",
+    "version":  "1.0.4",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
+                     {
+                         "origen":  "mods/alex-mobs-tweaks-omni-1.2.2.jar",
+                         "destino":  "mods/alex-mobs-tweaks-omni-1.2.2.jar",
+                         "sha256":  "f98825d160b70afcc6dce3093b9c125e0d59df8c95e8c972a153906d221bc78f",
+                         "tamano":  122108
+                     },
+                     {
+                         "origen":  "mods/alexsmobs-1.22.9.jar",
+                         "destino":  "mods/alexsmobs-1.22.9.jar",
+                         "sha256":  "16bc5bcc19db9029c24f951346ec71098e6f5b0afef96e61894a2e9407aad37c",
+                         "tamano":  26350793
+                     },
+                     {
+                         "origen":  "mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+                         "destino":  "mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+                         "sha256":  "7b8e945da294b745e6aed9f88f28e232a767e032d7c2b8137a8ef36421d9fb33",
+                         "tamano":  1187126
+                     },
+                     {
+                         "origen":  "mods/architectury-9.2.14-forge.jar",
+                         "destino":  "mods/architectury-9.2.14-forge.jar",
+                         "sha256":  "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+                         "tamano":  580602
+                     },
+                     {
+                         "origen":  "mods/ares_hud-1.3.2-all.jar",
+                         "destino":  "mods/ares_hud-1.3.2-all.jar",
+                         "sha256":  "cb9b966f9721bf3753226942bcc257ac7c0073ed6cc93f448447f69800ed1e37",
+                         "tamano":  910075
+                     },
+                     {
+                         "origen":  "mods/Armor of the Ages-forge-1.20.1-1.3.15.jar",
+                         "destino":  "mods/Armor of the Ages-forge-1.20.1-1.3.15.jar",
+                         "sha256":  "1abfc254d0ec223e318bf822e6d396a7c694a65776a5cd9cbfb4b05c0f5aafc8",
+                         "tamano":  528949
+                     },
+                     {
+                         "origen":  "mods/azurelib-neo-1.20.1-3.1.12.jar",
+                         "destino":  "mods/azurelib-neo-1.20.1-3.1.12.jar",
+                         "sha256":  "482d12cdcba5c029e8c22fd34c4913edc22b0ba1f5c5121613f0974192323fb7",
+                         "tamano":  1066523
+                     },
+                     {
+                         "origen":  "mods/balm-forge-1.20.1-7.3.41-all.jar",
+                         "destino":  "mods/balm-forge-1.20.1-7.3.41-all.jar",
+                         "sha256":  "053205e3dac0d19fcff4aa3d4f5e4df48d3398b54d446d65fb918c520429e11a",
+                         "tamano":  559741
+                     },
+                     {
+                         "origen":  "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+                         "destino":  "mods/bettercombat-forge-1.9.0+1.20.1.jar",
+                         "sha256":  "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
+                         "tamano":  1054339
+                     },
+                     {
+                         "origen":  "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+                         "destino":  "mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+                         "sha256":  "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
+                         "tamano":  343925
+                     },
+                     {
+                         "origen":  "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+                         "destino":  "mods/born_in_chaos_[Forge]1.20.1_1.7.5.jar",
+                         "sha256":  "9f242f4f3330f3d0d985f5f3ce9a92fe09016ff9c6162252f201d17009b28d7d",
+                         "tamano":  11839865
+                     },
+                     {
+                         "origen":  "mods/boundless-10.jar",
+                         "destino":  "mods/boundless-10.jar",
+                         "sha256":  "10bdd3d2c9c97238aec05619aff8cf615a5d1ab6f58305f9e3222c2dd9d906ed",
+                         "tamano":  3416902
+                     },
+                     {
+                         "origen":  "mods/cataclysm_compat_1.20.1-1.0.2.jar",
+                         "destino":  "mods/cataclysm_compat_1.20.1-1.0.2.jar",
+                         "sha256":  "0350c2ea731861f516c285ce668e6dce2958dc88d1e1edc9f53b31af7d584875",
+                         "tamano":  19288
+                     },
+                     {
+                         "origen":  "mods/cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+                         "destino":  "mods/cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
+                         "sha256":  "e177494251434c5f04ebc065e6e1c478a327dcd14dd2550bde38adc640ff4ae8",
+                         "tamano":  1266452
+                     },
+                     {
+                         "origen":  "mods/cataclysmspells_compat.jar",
+                         "destino":  "mods/cataclysmspells_compat.jar",
+                         "sha256":  "ff19f2ea59c728bdc9d3f06e9a336ddedf0fc947027ada8a175d5e34ca24660d",
+                         "tamano":  12252
+                     },
+                     {
+                         "origen":  "mods/celestisynth-1.20.1-1.3.4-all.jar",
+                         "destino":  "mods/celestisynth-1.20.1-1.3.4-all.jar",
+                         "sha256":  "d16e4bda6f2f493364d36026905dfcdaf4f042f12b919fa7c04c6030c09000b7",
+                         "tamano":  2664860
+                     },
+                     {
+                         "origen":  "mods/citadel-2.6.3-1.20.1.jar",
+                         "destino":  "mods/citadel-2.6.3-1.20.1.jar",
+                         "sha256":  "56c7ab87348a5292583aac787b6cf11b5193e77f02af1d17ea75a96f8640b3ce",
+                         "tamano":  3185275
+                     },
+                     {
+                         "origen":  "mods/cloth-config-11.1.136-forge.jar",
+                         "destino":  "mods/cloth-config-11.1.136-forge.jar",
+                         "sha256":  "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+                         "tamano":  1181413
+                     },
+                     {
+                         "origen":  "mods/combatroll-forge-1.3.3+1.20.1.jar",
+                         "destino":  "mods/combatroll-forge-1.3.3+1.20.1.jar",
+                         "sha256":  "e20a4693ff734e5c61dc3fcc32e77c6b850722f2e208728e8643e279d6085b30",
+                         "tamano":  217962
+                     },
+                     {
+                         "origen":  "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+                         "destino":  "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+                         "sha256":  "9e638c7e73d997bb4ecba4aa40de90e89dd15fdbc4235fb997eed9ad43c10cd3",
+                         "tamano":  360700
+                     },
+                     {
+                         "origen":  "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+                         "destino":  "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+                         "sha256":  "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+                         "tamano":  88752
+                     },
+                     {
+                         "origen":  "mods/curios-forge-5.14.1+1.20.1.jar",
+                         "destino":  "mods/curios-forge-5.14.1+1.20.1.jar",
+                         "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
+                         "tamano":  398066
+                     },
+                     {
+                         "origen":  "mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
+                         "destino":  "mods/CustomNPCs-1.20.1-GBPort-Unofficial-1.20.1.20260711.jar",
+                         "sha256":  "604916a1cd0949fd426cab5fad8f839037d7e6f74d9f18a9afbeaa7731edfc38",
+                         "tamano":  10873769
+                     },
+                     {
+                         "origen":  "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+                         "destino":  "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
+                         "sha256":  "8c01a97da60dbbc9772147f14f0992e9da8d46868b715dbd95477a505229b255",
+                         "tamano":  12598772
+                     },
+                     {
+                         "origen":  "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+                         "destino":  "mods/DungeonsArise-1.20.x-2.1.58-release.jar",
+                         "sha256":  "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90",
+                         "tamano":  8762342
+                     },
+                     {
+                         "origen":  "mods/embeddium-0.3.31+mc1.20.1.jar",
+                         "destino":  "mods/embeddium-0.3.31+mc1.20.1.jar",
+                         "sha256":  "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb",
+                         "tamano":  1320675
+                     },
+                     {
+                         "origen":  "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+                         "destino":  "mods/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+                         "sha256":  "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07",
+                         "tamano":  66883
+                     },
+                     {
+                         "origen":  "mods/fantasy_armor-forge-1.2.4-1.20.1.jar",
+                         "destino":  "mods/fantasy_armor-forge-1.2.4-1.20.1.jar",
+                         "sha256":  "60723448eb979d29da51bd6fe71e6ef1b695decd3d91da76f1e970664bf80693",
+                         "tamano":  544856
+                     },
+                     {
+                         "origen":  "mods/fantasy_weapons-forge-0.4-1.20.1.jar",
+                         "destino":  "mods/fantasy_weapons-forge-0.4-1.20.1.jar",
+                         "sha256":  "c3622380f9d8aeaada06a5b1bc900dd42a3ecc8acaf6efeb04e0d7141d681f25",
+                         "tamano":  592319
+                     },
+                     {
+                         "origen":  "mods/FarmersDelight-1.20.1-1.3.2.jar",
+                         "destino":  "mods/FarmersDelight-1.20.1-1.3.2.jar",
+                         "sha256":  "47aed94bb9192c4978fe199f9d3ca5895aeccfbe5b5a0869fdf3aa011c2641f7",
+                         "tamano":  3313327
+                     },
+                     {
+                         "origen":  "mods/ferritecore-6.0.1-forge.jar",
+                         "destino":  "mods/ferritecore-6.0.1-forge.jar",
+                         "sha256":  "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54",
+                         "tamano":  123034
+                     },
+                     {
+                         "origen":  "mods/fieldguide-forge-1.20.1-1.8.3.jar",
+                         "destino":  "mods/fieldguide-forge-1.20.1-1.8.3.jar",
+                         "sha256":  "a93c9444c9a6e1d74a88075d78bed47857da5e3046ba6874c562977d00e1e82f",
+                         "tamano":  1084537
+                     },
+                     {
+                         "origen":  "mods/Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar",
+                         "destino":  "mods/Forge 1.20.1 Minecraft Middle Ages 0.0.5.jar",
+                         "sha256":  "217e69fe4429c25611cef0aa9372e0f319a317638ab54607b6c68157208ff753",
+                         "tamano":  2674406
+                     },
+                     {
+                         "origen":  "mods/fromtheshadowsreborn-2.825.jar",
+                         "destino":  "mods/fromtheshadowsreborn-2.825.jar",
+                         "sha256":  "135e229fb087970c45ec34a914b88ca09fb417521acd9c2419d75461438626fd",
+                         "tamano":  2655616
+                     },
+                     {
+                         "origen":  "mods/geckolib-forge-1.20.1-4.8.3.jar",
+                         "destino":  "mods/geckolib-forge-1.20.1-4.8.3.jar",
+                         "sha256":  "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+                         "tamano":  1039046
+                     },
+                     {
+                         "origen":  "mods/globalpacks-forge-1.20.1-19.3.7.jar",
+                         "destino":  "mods/globalpacks-forge-1.20.1-19.3.7.jar",
+                         "sha256":  "e5db3831c8479ed7008e60c8094c11abea9063bdbdf2e2749c326b11fd493662",
+                         "tamano":  25101
+                     },
+                     {
+                         "origen":  "mods/gtbcs_spell_lib-1.5.0-1.20.1.jar",
+                         "destino":  "mods/gtbcs_spell_lib-1.5.0-1.20.1.jar",
+                         "sha256":  "33cf72f9863f1b601e9562a40f1bd3a15f799178dcd7918778e4df3ede3b921e",
+                         "tamano":  135012
+                     },
+                     {
+                         "origen":  "mods/hazennstuff-watered-down-edition-1.1.2.jar",
+                         "destino":  "mods/hazennstuff-watered-down-edition-1.1.2.jar",
+                         "sha256":  "cce49aa74707634ac78e955442eb6a75e2122338db7f7b91da0286f375014f90",
+                         "tamano":  1204816
+                     },
+                     {
+                         "origen":  "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+                         "destino":  "mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar",
+                         "sha256":  "82db19cc65b5c11a444498fb4b8cbcb0393c043e794cb5bf368631a0af765035",
+                         "tamano":  532063
+                     },
+                     {
+                         "origen":  "mods/infernalmobs-1.20.1.11.jar",
+                         "destino":  "mods/infernalmobs-1.20.1.11.jar",
+                         "sha256":  "13e14b2bd709a6f95c1d8ec8b1b7118f619d68431b56c30019b9698433a831e5",
+                         "tamano":  145937
+                     },
+                     {
+                         "origen":  "mods/irons_lib-1.20.1-2.1.0.jar",
+                         "destino":  "mods/irons_lib-1.20.1-2.1.0.jar",
+                         "sha256":  "db4c7cc853c0ffb1d36a0f19af22c224a8608b2a55c747adc70fb44455baf097",
+                         "tamano":  428969
+                     },
+                     {
+                         "origen":  "mods/irons_spellbooks-1.20.1-3.16.2.jar",
+                         "destino":  "mods/irons_spellbooks-1.20.1-3.16.2.jar",
+                         "sha256":  "b3a2cc3eac6990dd5badb845bb2e2b74ff89539bc54d793045ee1af6c70cd155",
+                         "tamano":  15554022
+                     },
+                     {
+                         "origen":  "mods/Jade-1.20.1-Forge-11.13.3.jar",
+                         "destino":  "mods/Jade-1.20.1-Forge-11.13.3.jar",
+                         "sha256":  "a632c77975e5aedff6322b0072f8b0db3f5d4bf914df6bdcc87d1aea4d5f55f4",
+                         "tamano":  553487
+                     },
+                     {
+                         "origen":  "mods/jei-1.20.1-forge-15.20.0.134.jar",
+                         "destino":  "mods/jei-1.20.1-forge-15.20.0.134.jar",
+                         "sha256":  "7cc9f12b02e5ab625933c67dac819ff873a7508728b66e6077b13704e98c478e",
+                         "tamano":  1412399
+                     },
+                     {
+                         "origen":  "mods/L_Enders_Cataclysm-3.16.jar",
+                         "destino":  "mods/L_Enders_Cataclysm-3.16.jar",
+                         "sha256":  "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
+                         "tamano":  127993805
+                     },
+                     {
+                         "origen":  "mods/lionfishapi-2.7.jar",
+                         "destino":  "mods/lionfishapi-2.7.jar",
+                         "sha256":  "aa3191415ca5263a86b7baedead2aeaffaa94f093dcd42381e4b258e450130e3",
+                         "tamano":  122522
+                     },
+                     {
+                         "origen":  "mods/lootr-forge-1.20-0.7.35.94.jar",
+                         "destino":  "mods/lootr-forge-1.20-0.7.35.94.jar",
+                         "sha256":  "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+                         "tamano":  463485
+                     },
+                     {
+                         "origen":  "mods/majrusz-library-1.20.1-5.1.2.jar",
+                         "destino":  "mods/majrusz-library-1.20.1-5.1.2.jar",
+                         "sha256":  "a2d6a72b571fd6c97eb880adebe000c1778724dc40c42ede369c2f0e5df9d290",
+                         "tamano":  396944
+                     },
+                     {
+                         "origen":  "mods/majruszs-difficulty-1.20.1-1.8.1.jar",
+                         "destino":  "mods/majruszs-difficulty-1.20.1-1.8.1.jar",
+                         "sha256":  "de30c7ad16509a833f88eed0a07c2120571961f620140af8c424ab7449460863",
+                         "tamano":  766268
+                     },
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
                          "sha256":  "dab1b65116d146838dc9b9dafec6803083ffffea85979b2a0ee7fe417d47f5a5",
                          "tamano":  48241
+                     },
+                     {
+                         "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+                         "destino":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+                         "sha256":  "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
+                         "tamano":  1246753
+                     },
+                     {
+                         "origen":  "mods/minecraft-comes-alive-7.6.28-beta.9+1.20.1-universal.jar",
+                         "destino":  "mods/minecraft-comes-alive-7.6.28-beta.9+1.20.1-universal.jar",
+                         "sha256":  "c7e5f9232c0ce50a8eb8fbc6bae23e2361c20ca60978c6bd3b269487b635312f",
+                         "tamano":  13898018
+                     },
+                     {
+                         "origen":  "mods/modernfix-forge-5.27.66+mc1.20.1.jar",
+                         "destino":  "mods/modernfix-forge-5.27.66+mc1.20.1.jar",
+                         "sha256":  "7db0c735b9037937757dcc9d40e0b6e2dee5f01336096e1a3a2a371ed0cfda4d",
+                         "tamano":  1002234
+                     },
+                     {
+                         "origen":  "mods/morehitboxes-forge-1.20.1-1.9.2.jar",
+                         "destino":  "mods/morehitboxes-forge-1.20.1-1.9.2.jar",
+                         "sha256":  "d7d181f9bf7fc4ae889bb86c3c71b1668290ff05464fd9640cbe439ba4c7b5b5",
+                         "tamano":  294405
+                     },
+                     {
+                         "origen":  "mods/mowziesmobs-1.6.5.jar",
+                         "destino":  "mods/mowziesmobs-1.6.5.jar",
+                         "sha256":  "068380428d521edc059d53ad210af9ef3e2384897e0c7220e20640dd6f1c892d",
+                         "tamano":  15089229
+                     },
+                     {
+                         "origen":  "mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar",
+                         "destino":  "mods/MutantMonsters-v8.0.8-1.20.1-Forge.jar",
+                         "sha256":  "9a1835dd388a04c37acb1384e7c39650804103b3dd9d4b3910fd49022d18a4bf",
+                         "tamano":  1335037
+                     },
+                     {
+                         "origen":  "mods/mutantmore-1.20.1-early_access-2.0.0.jar",
+                         "destino":  "mods/mutantmore-1.20.1-early_access-2.0.0.jar",
+                         "sha256":  "8cc7dc53ce0b7f5a0290a96e4cce210accc1f479a8c5ccbd8ae21fbfa8cb1f31",
+                         "tamano":  18499136
+                     },
+                     {
+                         "origen":  "mods/Nether Travel Ticket 1.6 forge-1.20.1.jar",
+                         "destino":  "mods/Nether Travel Ticket 1.6 forge-1.20.1.jar",
+                         "sha256":  "7dcb2d7546e5ae5b929d73ef892fba84839a47c0f829567821b89a6513ff99fb",
+                         "tamano":  40651
+                     },
+                     {
+                         "origen":  "mods/noisiumed-forge-3.0.6+mc1.20-1.20.1.jar",
+                         "destino":  "mods/noisiumed-forge-3.0.6+mc1.20-1.20.1.jar",
+                         "sha256":  "09f89355b21c84a653afdc1597c4cd1db66be836b3ef52fc419d28dcbcffb03c",
+                         "tamano":  218152
+                     },
+                     {
+                         "origen":  "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+                         "destino":  "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+                         "sha256":  "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+                         "tamano":  424035
+                     },
+                     {
+                         "origen":  "mods/oculus-mc1.20.1-1.8.0.jar",
+                         "destino":  "mods/oculus-mc1.20.1-1.8.0.jar",
+                         "sha256":  "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+                         "tamano":  2851119
+                     },
+                     {
+                         "origen":  "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
+                         "destino":  "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
+                         "sha256":  "a6d21a08170dbfb6c3983b571bb2c1cd92aa93109f5b3a9b47101688dd81ea01",
+                         "tamano":  19043613
+                     },
+                     {
+                         "origen":  "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
+                         "destino":  "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
+                         "sha256":  "b3495f6b0ffa38bc5bf7189e29a27eef0c23b58540dc2f32033889c2943e5694",
+                         "tamano":  171966
+                     },
+                     {
+                         "origen":  "mods/Patchouli-1.20.1-85-FORGE.jar",
+                         "destino":  "mods/Patchouli-1.20.1-85-FORGE.jar",
+                         "sha256":  "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
+                         "tamano":  642732
+                     },
+                     {
+                         "origen":  "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                         "destino":  "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+                         "sha256":  "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
+                         "tamano":  181437
+                     },
+                     {
+                         "origen":  "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                         "destino":  "mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+                         "sha256":  "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
+                         "tamano":  1342987
+                     },
+                     {
+                         "origen":  "mods/quantified api-omni-2.2.0.jar",
+                         "destino":  "mods/quantified api-omni-2.2.0.jar",
+                         "sha256":  "f9bb71e7262ef0e8bf9dd6f6f0e886528ab7c5d8f7b873ce904f93873b2a018d",
+                         "tamano":  9563343
+                     },
+                     {
+                         "origen":  "mods/relics-1.20.1-0.8.0.13.jar",
+                         "destino":  "mods/relics-1.20.1-0.8.0.13.jar",
+                         "sha256":  "2731d3b81533564c5d206faf94e4e8afaf928d97b47b720e5d6aaa017333096f",
+                         "tamano":  1521089
+                     },
+                     {
+                         "origen":  "mods/ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+                         "destino":  "mods/ruok-forge_1.20.1_Pre-Release_6-1.7.4.jar",
+                         "sha256":  "4f293723b1ac7e9b691c9deedfa1844398c666388275f11a6465a0abb420d6dd",
+                         "tamano":  1050096
+                     },
+                     {
+                         "origen":  "mods/servercore-forge-1.3.9+1.20.1.jar",
+                         "destino":  "mods/servercore-forge-1.3.9+1.20.1.jar",
+                         "sha256":  "cb4255e623dd2ed41e3be13b6c919e4d1448a1f605a9bd6bb3cf78e7125beb83",
+                         "tamano":  1235588
+                     },
+                     {
+                         "origen":  "mods/simplymore-forge-1.1.2.jar",
+                         "destino":  "mods/simplymore-forge-1.1.2.jar",
+                         "sha256":  "64a677040061d3875adabf16bba77cbfa92618033beb0880033f12a8a0f266e5",
+                         "tamano":  1545568
+                     },
+                     {
+                         "origen":  "mods/simplyswords-forge-1.56.0-1.20.1.jar",
+                         "destino":  "mods/simplyswords-forge-1.56.0-1.20.1.jar",
+                         "sha256":  "318f1c362b69db22324cc87307549643b795d7c57b652cebdc9d946f03a21c5f",
+                         "tamano":  15202091
+                     },
+                     {
+                         "origen":  "mods/sophisticatedbackpacks-1.20.1-3.24.62.2017.jar",
+                         "destino":  "mods/sophisticatedbackpacks-1.20.1-3.24.62.2017.jar",
+                         "sha256":  "ffa11da88bde6ed6158bfba25e2e33005260b080a4558cc4f85be7baea9f9220",
+                         "tamano":  1130880
+                     },
+                     {
+                         "origen":  "mods/sophisticatedcore-1.20.1-1.3.73.2192.jar",
+                         "destino":  "mods/sophisticatedcore-1.20.1-1.3.73.2192.jar",
+                         "sha256":  "96c0fa99f790df039116278518fbc78d858ea43cf2d317031e7d81fb2706a7a3",
+                         "tamano":  1622705
+                     },
+                     {
+                         "origen":  "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                         "destino":  "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+                         "sha256":  "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
+                         "tamano":  107532
+                     },
+                     {
+                         "origen":  "mods/tombstone-1.20.1-9.1.3.jar",
+                         "destino":  "mods/tombstone-1.20.1-9.1.3.jar",
+                         "sha256":  "9ecfa6768aee0e4f344d866ae51809d34ca5bffcbf9b444b4239419751d259b8",
+                         "tamano":  2581467
+                     },
+                     {
+                         "origen":  "mods/torchmaster-20.1.9.jar",
+                         "destino":  "mods/torchmaster-20.1.9.jar",
+                         "sha256":  "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682",
+                         "tamano":  119348
+                     },
+                     {
+                         "origen":  "mods/waystones-forge-1.20.1-14.1.20.jar",
+                         "destino":  "mods/waystones-forge-1.20.1-14.1.20.jar",
+                         "sha256":  "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd",
+                         "tamano":  533738
+                     },
+                     {
+                         "origen":  "mods/witherreincarnated-1.20.1-1.0.5.jar",
+                         "destino":  "mods/witherreincarnated-1.20.1-1.0.5.jar",
+                         "sha256":  "00589726de7d82628d92761394a8a3e6b153c28942f50c9ae6ba7860b0fab80a",
+                         "tamano":  12807443
+                     },
+                     {
+                         "origen":  "mods/worldedit-mod-7.2.15.jar",
+                         "destino":  "mods/worldedit-mod-7.2.15.jar",
+                         "sha256":  "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c",
+                         "tamano":  5825402
+                     },
+                     {
+                         "origen":  "mods/xaerominimap-forge-1.20.1-26.4.2.jar",
+                         "destino":  "mods/xaerominimap-forge-1.20.1-26.4.2.jar",
+                         "sha256":  "8143f332ed20a61a518692b42c793e021b6bd2d0d9d61cf3938fb9cfa07eb59c",
+                         "tamano":  2195245
+                     },
+                     {
+                         "origen":  "mods/xaeroworldmap-forge-1.20.1-1.44.2.jar",
+                         "destino":  "mods/xaeroworldmap-forge-1.20.1-1.44.2.jar",
+                         "sha256":  "cc20a74887923eecf5b614ffbf5a58e6c749d98a657003bde4a77d04212dee0d",
+                         "tamano":  1421224
+                     },
+                     {
+                         "origen":  "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                         "destino":  "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+                         "sha256":  "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
+                         "tamano":  1105891
                      }
                  ]
 }
