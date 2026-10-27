@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.7",
+    "version":  "1.0.8",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -325,12 +325,6 @@
                          "destino":  "mods/morehitboxes-forge-1.20.1-1.9.2.jar",
                          "sha256":  "d7d181f9bf7fc4ae889bb86c3c71b1668290ff05464fd9640cbe439ba4c7b5b5",
                          "tamano":  294405
-                     },
-                     {
-                         "origen":  "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-                         "destino":  "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
-                         "sha256":  "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08",
-                         "tamano":  76237
                      },
                      {
                          "origen":  "mods/mowziesmobs-1.6.5.jar",
