@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -39,10 +39,10 @@
                          "tamano":  528949
                      },
                      {
-                         "origen":  "mods/astralordnance-0.1.0-beta.2-fix1-neoforge-1.21.1.jar",
-                         "destino":  "mods/astralordnance-0.1.0-beta.2-fix1-neoforge-1.21.1.jar",
-                         "sha256":  "92b03f531f59d45b77860c9023f8c451ecdc3447123069c51a11caf0a56871c2",
-                         "tamano":  3463708
+                         "origen":  "mods/astralordnance-0.1.0-beta.2-fix1-forge-1.20.1.jar",
+                         "destino":  "mods/astralordnance-0.1.0-beta.2-fix1-forge-1.20.1.jar",
+                         "sha256":  "e7b1c8a9b81df1225f3a9a4fb79e72d99b32d92e24b4b630dfea00afe7b36cc4",
+                         "tamano":  3460663
                      },
                      {
                          "origen":  "mods/azurelib-neo-1.20.1-3.1.12.jar",
