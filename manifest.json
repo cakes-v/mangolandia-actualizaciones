@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.8",
+    "version":  "1.0.10",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -37,6 +37,12 @@
                          "destino":  "mods/Armor of the Ages-forge-1.20.1-1.3.15.jar",
                          "sha256":  "1abfc254d0ec223e318bf822e6d396a7c694a65776a5cd9cbfb4b05c0f5aafc8",
                          "tamano":  528949
+                     },
+                     {
+                         "origen":  "mods/astralordnance-0.1.0-beta.2-fix1-neoforge-1.21.1.jar",
+                         "destino":  "mods/astralordnance-0.1.0-beta.2-fix1-neoforge-1.21.1.jar",
+                         "sha256":  "92b03f531f59d45b77860c9023f8c451ecdc3447123069c51a11caf0a56871c2",
+                         "tamano":  3463708
                      },
                      {
                          "origen":  "mods/azurelib-neo-1.20.1-3.1.12.jar",
@@ -299,8 +305,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "d939fc2ab75390667287fff625441944ec61084b4d4bd28e27623edd37dc94ce",
-                         "tamano":  50063
+                         "sha256":  "6db5aba2fe47f8e2a881d014b6a11c8b55ae4a049f9c345090390d699f0d9bd0",
+                         "tamano":  50064
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
