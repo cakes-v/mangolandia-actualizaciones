@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.4",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -311,8 +311,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "5dc1461caad42d70291c15d80e7554370ed41fb238962e301a054b33acdd5fb6",
-                         "tamano":  260335
+                         "sha256":  "592ceabb6d5f8e31dd37443c98eafde1845e41cff61c8003a71219b9da5d26ac",
+                         "tamano":  256656
                      },
                      {
                          "origen":  "mods/MangolandiaEfecto.jar",
