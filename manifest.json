@@ -147,6 +147,12 @@
                          "tamano":  10873769
                      },
                      {
+                         "origen":  "mods/diorama-0.6.0-forge-1.20.1.jar",
+                         "destino":  "mods/diorama-0.6.0-forge-1.20.1.jar",
+                         "sha256":  "fc26afe63b7593a713673a363f81a3b46b6ac28efb4eb4361d912dde393233f6",
+                         "tamano":  1407972
+                     },
+                     {
                          "origen":  "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
                          "destino":  "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
                          "sha256":  "8c01a97da60dbbc9772147f14f0992e9da8d46868b715dbd95477a505229b255",
