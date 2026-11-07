@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.10",
+    "version":  "1.0.11",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -475,6 +475,12 @@
                          "destino":  "mods/torchmaster-20.1.9.jar",
                          "sha256":  "7c8984a2dc11c29147d0677958e9146a18578068bc00fbfcb1cddbaa60557682",
                          "tamano":  119348
+                     },
+                     {
+                         "origen":  "mods/voicechat-forge-1.20.1-2.6.27.jar",
+                         "destino":  "mods/voicechat-forge-1.20.1-2.6.27.jar",
+                         "sha256":  "e48098690a01ba75e4f5549cbfda142de4513ec421001914a4a11164cceaccd0",
+                         "tamano":  4941878
                      },
                      {
                          "origen":  "mods/waystones-forge-1.20.1-14.1.20.jar",
