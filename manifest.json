@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.18",
+    "version":  "1.0.19",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -75,16 +75,16 @@
                          "tamano":  11839865
                      },
                      {
-                         "origen":  "mods/boundless-10.jar",
-                         "destino":  "mods/boundless-10.jar",
-                         "sha256":  "10bdd3d2c9c97238aec05619aff8cf615a5d1ab6f58305f9e3222c2dd9d906ed",
-                         "tamano":  3416902
-                     },
-                     {
                          "origen":  "mods/cataclysm_compat_1.20.1-1.0.2.jar",
                          "destino":  "mods/cataclysm_compat_1.20.1-1.0.2.jar",
                          "sha256":  "0350c2ea731861f516c285ce668e6dce2958dc88d1e1edc9f53b31af7d584875",
                          "tamano":  19288
+                     },
+                     {
+                         "origen":  "mods/cataclysm_dimension-forge1.20.1-1.6.2.jar",
+                         "destino":  "mods/cataclysm_dimension-forge1.20.1-1.6.2.jar",
+                         "sha256":  "1666d567b095123de74fa1022d4dc6850cd04aae738dd6bf1e9707a39588ea4b",
+                         "tamano":  152827
                      },
                      {
                          "origen":  "mods/cataclysm_spellbooks-1.2.9-1.20.1-all.jar",
@@ -135,6 +135,12 @@
                          "tamano":  88752
                      },
                      {
+                         "origen":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                         "destino":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                         "sha256":  "dbfe1d27c5ae9d7c191054430412794a5f245a466181f57dc9e278e4ee224981",
+                         "tamano":  3271742
+                     },
+                     {
                          "origen":  "mods/curios-forge-5.14.1+1.20.1.jar",
                          "destino":  "mods/curios-forge-5.14.1+1.20.1.jar",
                          "sha256":  "1e817919a35b37cf30524aaec73f0ca5130452f23f168f844854df282eb8e51f",
@@ -151,6 +157,12 @@
                          "destino":  "mods/diorama-0.6.0-forge-1.20.1.jar",
                          "sha256":  "fc26afe63b7593a713673a363f81a3b46b6ac28efb4eb4361d912dde393233f6",
                          "tamano":  1407972
+                     },
+                     {
+                         "origen":  "mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
+                         "destino":  "mods/DistantHorizons-3.3.3-1.20.1-fabric-forge.jar",
+                         "sha256":  "a537a71171d935540b56b7598d0de2c106f6f5026336c713d89a1d9ea0ea14e3",
+                         "tamano":  27700542
                      },
                      {
                          "origen":  "mods/dungeons_and_combat-1.2.4-forge-1.20.1.jar",
@@ -311,14 +323,14 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "e8e24a79a77a6c631c343049000445411a6a2679b0806d01ebbf81d9b1c041d0",
-                         "tamano":  899126
+                         "sha256":  "4e6b88c47ffd198885add44e74da5ce24d44a7014e86f1d73733d732bd9ec8c8",
+                         "tamano":  898864
                      },
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
                          "destino":  "mods/mangolandia-jefes-0.1.0.jar",
-                         "sha256":  "5d6032db769ef917d6a31c611eaf62957717c16964f374c7c8819ee4e625f7f6",
-                         "tamano":  1767774
+                         "sha256":  "d8b1d50f2dd851dadd1c66907d817c00bdc6182cd25239092d9a6b4fb6ac8453",
+                         "tamano":  1771399
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
