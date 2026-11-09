@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.19",
+    "version":  "1.0.20",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -329,8 +329,8 @@
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
                          "destino":  "mods/mangolandia-jefes-0.1.0.jar",
-                         "sha256":  "d8b1d50f2dd851dadd1c66907d817c00bdc6182cd25239092d9a6b4fb6ac8453",
-                         "tamano":  1771399
+                         "sha256":  "e1b2f4f2bd832553b4ece506c04f03c0cf4fd625064b1f5b00d66864640087e0",
+                         "tamano":  1790674
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
