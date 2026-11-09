@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.25",
+    "version":  "1.0.26",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -327,10 +327,10 @@
                          "tamano":  898864
                      },
                      {
-                         "origen":  "mods/mangolandia-foca-0.3.0.jar",
-                         "destino":  "mods/mangolandia-foca-0.3.0.jar",
-                         "sha256":  "cc9e9f4b7ba323694a88e25039323958b7d1a81b1ef96dc18bd99788d276dc90",
-                         "tamano":  103043
+                         "origen":  "mods/mangolandia-foca-0.3.1.jar",
+                         "destino":  "mods/mangolandia-foca-0.3.1.jar",
+                         "sha256":  "000a1358881c895a2e0794ef55df9085b8720fce97195ae274511c73ca210ab8",
+                         "tamano":  103169
                      },
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
