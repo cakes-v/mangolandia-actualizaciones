@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.30",
+    "version":  "1.0.31",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -329,8 +329,8 @@
                      {
                          "origen":  "mods/mangolandia-estandarte-0.1.0.jar",
                          "destino":  "mods/mangolandia-estandarte-0.1.0.jar",
-                         "sha256":  "ba10aad104005c175d73146ce5157b0ac6e29e9dad7f89991b94695df65e619b",
-                         "tamano":  39513
+                         "sha256":  "658c3f6ad80ad97d6d6be42881e521c5b980364a591ebd6204e029dbb3f2ff41",
+                         "tamano":  40196
                      },
                      {
                          "origen":  "mods/mangolandia-foca-0.4.0.jar",
@@ -371,8 +371,8 @@
                      {
                          "origen":  "mods/mangolandia-tambor-0.1.0.jar",
                          "destino":  "mods/mangolandia-tambor-0.1.0.jar",
-                         "sha256":  "12b5b8d9b9805df3aeace798fbd7762017b5b26511079ef456b6cc8ed793a702",
-                         "tamano":  480885
+                         "sha256":  "b5a21b606709853a4090f548b427f81ad1aa7a0011c301bcb59aa0a2f6df99ab",
+                         "tamano":  482438
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
