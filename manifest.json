@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.39",
+    "version":  "1.0.40",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -321,10 +321,10 @@
                          "tamano":  978253
                      },
                      {
-                         "origen":  "mods/mangolandia-estandarte-0.1.0.jar",
-                         "destino":  "mods/mangolandia-estandarte-0.1.0.jar",
-                         "sha256":  "6c7a812b0760b259cfb94d85f42f5f4ea3fe709f240582e676446383ebd80ca7",
-                         "tamano":  40223
+                         "origen":  "mods/mangolandia-estandarte-0.2.0.jar",
+                         "destino":  "mods/mangolandia-estandarte-0.2.0.jar",
+                         "sha256":  "a3c9bcfaec983b2e56c053a9c90b2e56afa3d358dc0cd2567c97caf6d506138a",
+                         "tamano":  71004
                      },
                      {
                          "origen":  "mods/mangolandia-foca-0.5.0.jar",
@@ -335,8 +335,8 @@
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
                          "destino":  "mods/mangolandia-jefes-0.1.0.jar",
-                         "sha256":  "17e6db760871ca13177471f07e24cdb1a745842617b4d82b6a9ee7b9f6ebe320",
-                         "tamano":  2288864
+                         "sha256":  "d7622af8564e097a70cd4beabcbfb569aab335a124e5a1ed7b234336f181662b",
+                         "tamano":  2317861
                      },
                      {
                          "origen":  "mods/mangolandia-mangopad-0.1.0.jar",
