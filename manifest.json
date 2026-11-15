@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.42",
+    "version":  "1.0.43",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -317,8 +317,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "3a0029d786e8d84b8441f08781de34f80752a042bfbb2787c5acb05490c03148",
-                         "tamano":  1004862
+                         "sha256":  "f5fdae9341a86d3b8794e80735fb88397d2271333268ff540737b7fd8fa08c68",
+                         "tamano":  1017082
                      },
                      {
                          "origen":  "mods/mangolandia-estandarte-0.2.0.jar",
@@ -329,14 +329,14 @@
                      {
                          "origen":  "mods/mangolandia-foca-0.5.0.jar",
                          "destino":  "mods/mangolandia-foca-0.5.0.jar",
-                         "sha256":  "b44c83bd010ef780f9b13f9fb7d23b695e772d46888f654739003cecbb036c24",
-                         "tamano":  368384
+                         "sha256":  "47bf57338a48c28522c6df3a93cd9b766067ce30ad82625ecb8a509652e0a67a",
+                         "tamano":  524220
                      },
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
                          "destino":  "mods/mangolandia-jefes-0.1.0.jar",
-                         "sha256":  "c62a554ec6d137a05ffa8996f5bec18d83e09340f78ed6d978c0f4b6deb79a7c",
-                         "tamano":  2471907
+                         "sha256":  "fb51c514b62f44720cc7289c8610140df5c906ae82463b3d3dccb962b0d70c70",
+                         "tamano":  2493485
                      },
                      {
                          "origen":  "mods/mangolandia-mangopad-0.1.0.jar",
@@ -365,8 +365,8 @@
                      {
                          "origen":  "mods/mangolandia-reliquias-0.1.0.jar",
                          "destino":  "mods/mangolandia-reliquias-0.1.0.jar",
-                         "sha256":  "38f558d00d074e8faceba52ca2c0b5fee38a3326b9aa5328f5f46a5d15868027",
-                         "tamano":  265605
+                         "sha256":  "89dffe3c810952ce857ff3aec64f12458fb52d5a587c225e6bbf72bc2029f2ec",
+                         "tamano":  303195
                      },
                      {
                          "origen":  "mods/mangolandia-tambor-0.1.0.jar",
