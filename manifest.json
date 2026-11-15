@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.45",
+    "version":  "1.0.46",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -335,8 +335,8 @@
                      {
                          "origen":  "mods/mangolandia-jefes-0.1.0.jar",
                          "destino":  "mods/mangolandia-jefes-0.1.0.jar",
-                         "sha256":  "996a5f815302be61e787291be0ba681838a71daa7417359a335091f07d3ed7d0",
-                         "tamano":  2501013
+                         "sha256":  "b2772593f2126ff86011c4c63cff5bfcab2533b51f0b49b91558703873d0c55e",
+                         "tamano":  2502054
                      },
                      {
                          "origen":  "mods/mangolandia-mangopad-0.1.0.jar",
