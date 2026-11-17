@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.47",
+    "version":  "1.0.48",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -123,16 +123,16 @@
                          "tamano":  217962
                      },
                      {
-                         "origen":  "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
-                         "destino":  "mods/Corgilib-Forge-1.20.1-4.0.3.4.jar",
-                         "sha256":  "9e638c7e73d997bb4ecba4aa40de90e89dd15fdbc4235fb997eed9ad43c10cd3",
-                         "tamano":  360700
-                     },
-                     {
                          "origen":  "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
                          "destino":  "mods/cosmeticarmorreworked-1.20.1-v1a.jar",
                          "sha256":  "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
                          "tamano":  88752
+                     },
+                     {
+                         "origen":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                         "destino":  "mods/CraftTweaker-forge-1.20.1-14.0.60.jar",
+                         "sha256":  "dbfe1d27c5ae9d7c191054430412794a5f245a466181f57dc9e278e4ee224981",
+                         "tamano":  3271742
                      },
                      {
                          "origen":  "mods/curios-forge-5.14.1+1.20.1.jar",
@@ -317,8 +317,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "df3987877984a009609a4414f4e996ef7f6e1e03aae1205a2461a1f4943cacde",
-                         "tamano":  1017607
+                         "sha256":  "e2681e5ce28d2c975e9641adcd564b24c308193974b5887debf6efc0b8b61416",
+                         "tamano":  1031971
                      },
                      {
                          "origen":  "mods/mangolandia-estandarte-0.2.0.jar",
@@ -357,6 +357,12 @@
                          "tamano":  3415362
                      },
                      {
+                         "origen":  "mods/mangolandia-mercaderes-0.1.0.jar",
+                         "destino":  "mods/mangolandia-mercaderes-0.1.0.jar",
+                         "sha256":  "6cd5a16b58a8841d79bde303e96e2122283aff18872344676877613e0e73e107",
+                         "tamano":  36074
+                     },
+                     {
                          "origen":  "mods/mangolandia-pings-0.1.0.jar",
                          "destino":  "mods/mangolandia-pings-0.1.0.jar",
                          "sha256":  "5c1196e9fddfb6b05beca738eea744715e8154bd7a31d6f4e24c05c3c6df9f9f",
@@ -365,8 +371,14 @@
                      {
                          "origen":  "mods/mangolandia-reliquias-0.1.0.jar",
                          "destino":  "mods/mangolandia-reliquias-0.1.0.jar",
-                         "sha256":  "89dffe3c810952ce857ff3aec64f12458fb52d5a587c225e6bbf72bc2029f2ec",
-                         "tamano":  303195
+                         "sha256":  "baae41a0ff9ea755efc1215d6238a98d357735af8fc791f56fc3432d33e0d1fd",
+                         "tamano":  318349
+                     },
+                     {
+                         "origen":  "mods/mangolandia-stream-0.1.0.jar",
+                         "destino":  "mods/mangolandia-stream-0.1.0.jar",
+                         "sha256":  "977c303d24a95e9635a5ecc08ad7795b2d2ad5f06e59e4a27499886da72b70e2",
+                         "tamano":  24161
                      },
                      {
                          "origen":  "mods/mangolandia-tambor-0.1.0.jar",
@@ -441,18 +453,6 @@
                          "tamano":  2851119
                      },
                      {
-                         "origen":  "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-                         "destino":  "mods/Oh-The-Biomes-Weve-Gone-Forge-1.8.0.jar",
-                         "sha256":  "a6d21a08170dbfb6c3983b571bb2c1cd92aa93109f5b3a9b47101688dd81ea01",
-                         "tamano":  19043613
-                     },
-                     {
-                         "origen":  "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-                         "destino":  "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.7.0.jar",
-                         "sha256":  "b3495f6b0ffa38bc5bf7189e29a27eef0c23b58540dc2f32033889c2943e5694",
-                         "tamano":  171966
-                     },
-                     {
                          "origen":  "mods/Patchouli-1.20.1-85-FORGE.jar",
                          "destino":  "mods/Patchouli-1.20.1-85-FORGE.jar",
                          "sha256":  "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5",
@@ -517,12 +517,6 @@
                          "destino":  "mods/sophisticatedcore-1.20.1-1.3.73.2192.jar",
                          "sha256":  "96c0fa99f790df039116278518fbc78d858ea43cf2d317031e7d81fb2706a7a3",
                          "tamano":  1622705
-                     },
-                     {
-                         "origen":  "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-                         "destino":  "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
-                         "sha256":  "c109016f46ca9bdae69976bf080bbf2e8e5968cb66c0a78845f8ca6af5dbbeb1",
-                         "tamano":  107532
                      },
                      {
                          "origen":  "mods/tombstone-1.20.1-9.1.3.jar",
