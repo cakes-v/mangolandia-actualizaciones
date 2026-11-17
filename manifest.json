@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.48",
+    "version":  "1.0.49",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -317,8 +317,8 @@
                      {
                          "origen":  "mods/mangolandia-cartas-0.1.0.jar",
                          "destino":  "mods/mangolandia-cartas-0.1.0.jar",
-                         "sha256":  "e2681e5ce28d2c975e9641adcd564b24c308193974b5887debf6efc0b8b61416",
-                         "tamano":  1031971
+                         "sha256":  "56e2fa6f3ef7bea46158e8bb3cb496bf6f3d75fbc1ca45d8dbb3ba766245a015",
+                         "tamano":  1031996
                      },
                      {
                          "origen":  "mods/mangolandia-estandarte-0.2.0.jar",
@@ -361,6 +361,12 @@
                          "destino":  "mods/mangolandia-mercaderes-0.1.0.jar",
                          "sha256":  "6cd5a16b58a8841d79bde303e96e2122283aff18872344676877613e0e73e107",
                          "tamano":  36074
+                     },
+                     {
+                         "origen":  "mods/mangolandia-npc-0.1.0.jar",
+                         "destino":  "mods/mangolandia-npc-0.1.0.jar",
+                         "sha256":  "f3b1129e2f4c8d5b6b9c62586cae9e98ff55e35449b195d88ff3d204443baeed",
+                         "tamano":  43219
                      },
                      {
                          "origen":  "mods/mangolandia-pings-0.1.0.jar",
