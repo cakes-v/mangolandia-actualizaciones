@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.49",
+    "version":  "1.0.50",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -255,6 +255,12 @@
                          "tamano":  532063
                      },
                      {
+                         "origen":  "mods/Incendium_1.20.x_v5.3.5.jar",
+                         "destino":  "mods/Incendium_1.20.x_v5.3.5.jar",
+                         "sha256":  "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75",
+                         "tamano":  4638945
+                     },
+                     {
                          "origen":  "mods/infernalmobs-1.20.1.11.jar",
                          "destino":  "mods/infernalmobs-1.20.1.11.jar",
                          "sha256":  "13e14b2bd709a6f95c1d8ec8b1b7118f619d68431b56c30019b9698433a831e5",
@@ -347,8 +353,8 @@
                      {
                          "origen":  "mods/mangolandia-manguitox-0.1.0.jar",
                          "destino":  "mods/mangolandia-manguitox-0.1.0.jar",
-                         "sha256":  "5722e9d55e739660228bfe9585786f4a19db20b7f6e32ea87cb4ee96013f0792",
-                         "tamano":  31228
+                         "sha256":  "5ae052dc663df5c36b93be0898ec29e68ff487f85e0b335e1919d145a02f59b6",
+                         "tamano":  66870
                      },
                      {
                          "origen":  "mods/mangolandia-mapa-0.1.0.jar",
@@ -359,8 +365,8 @@
                      {
                          "origen":  "mods/mangolandia-mercaderes-0.1.0.jar",
                          "destino":  "mods/mangolandia-mercaderes-0.1.0.jar",
-                         "sha256":  "6cd5a16b58a8841d79bde303e96e2122283aff18872344676877613e0e73e107",
-                         "tamano":  36074
+                         "sha256":  "232d77621c0e10ac9cdac63112f90bf0a37aa9f9b7eadb5ca0134e7c7a7fba10",
+                         "tamano":  76286
                      },
                      {
                          "origen":  "mods/mangolandia-npc-0.1.0.jar",
@@ -377,8 +383,8 @@
                      {
                          "origen":  "mods/mangolandia-reliquias-0.1.0.jar",
                          "destino":  "mods/mangolandia-reliquias-0.1.0.jar",
-                         "sha256":  "baae41a0ff9ea755efc1215d6238a98d357735af8fc791f56fc3432d33e0d1fd",
-                         "tamano":  318349
+                         "sha256":  "d403cce1689c70adc6a97807b99c5df134c82fc837cebdd2a22ed0a86de0e19c",
+                         "tamano":  325489
                      },
                      {
                          "origen":  "mods/mangolandia-stream-0.1.0.jar",
@@ -391,6 +397,12 @@
                          "destino":  "mods/mangolandia-tambor-0.1.0.jar",
                          "sha256":  "19a1e092cfaeefbc41f7738f2ee3d8ad7341fa8862dcce459709f3951ec58c28",
                          "tamano":  540176
+                     },
+                     {
+                         "origen":  "mods/mangolandia-zonas-0.1.0.jar",
+                         "destino":  "mods/mangolandia-zonas-0.1.0.jar",
+                         "sha256":  "2894889f3f5283cfb856628ec5094d9ed7043c191cfb006ffdcf60c88b4488f8",
+                         "tamano":  34485
                      },
                      {
                          "origen":  "mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
