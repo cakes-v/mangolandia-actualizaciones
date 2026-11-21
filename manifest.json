@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.53",
+    "version":  "1.0.54",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -383,8 +383,8 @@
                      {
                          "origen":  "mods/mangolandia-portales-0.1.0.jar",
                          "destino":  "mods/mangolandia-portales-0.1.0.jar",
-                         "sha256":  "53194159de30c976b52582a110801a3ee017bdae821d44777d0e328e94d2924c",
-                         "tamano":  135253
+                         "sha256":  "45b7673f8ffca8fc8610a75ea50454e18eea66f7ec999fac823d11dc7925ac01",
+                         "tamano":  137992
                      },
                      {
                          "origen":  "mods/mangolandia-reliquias-0.1.0.jar",
