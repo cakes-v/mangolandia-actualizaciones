@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.62",
+    "version":  "1.0.63",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -371,8 +371,8 @@
                      {
                          "origen":  "mods/mangolandia-misiones-0.1.0.jar",
                          "destino":  "mods/mangolandia-misiones-0.1.0.jar",
-                         "sha256":  "ed9cfb1be46aab6f3402476afe1dfd53a46c3a4a30fd0b6eed1b542a6e5fe5a0",
-                         "tamano":  226946
+                         "sha256":  "a4fc62478c2003a6b2099efa289a376bb4c5ad6b3da5f7bb9dd83ff08e3d449d",
+                         "tamano":  231773
                      },
                      {
                          "origen":  "mods/mangolandia-npc-0.1.0.jar",
