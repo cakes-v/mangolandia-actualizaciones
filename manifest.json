@@ -1,5 +1,5 @@
 {
-    "version":  "1.0.67",
+    "version":  "1.0.68",
     "descripcion":  "Paquete de prueba de Mangolandia",
     "archivos":  [
                      {
@@ -379,6 +379,12 @@
                          "destino":  "mods/mangolandia-npc-0.1.0.jar",
                          "sha256":  "f3b1129e2f4c8d5b6b9c62586cae9e98ff55e35449b195d88ff3d204443baeed",
                          "tamano":  43219
+                     },
+                     {
+                         "origen":  "mods/mangolandia-npc-0.2.0.jar",
+                         "destino":  "mods/mangolandia-npc-0.2.0.jar",
+                         "sha256":  "fcc5b0d0b3f7af2873a7e634aacf290a41251b9b2f1b72fd3a9b212a325a6874",
+                         "tamano":  67502
                      },
                      {
                          "origen":  "mods/mangolandia-pings-0.1.0.jar",
